@@ -1,0 +1,1 @@
+include ':app', ':basicres', ':componentservice', ':basiclib', ':onecompone', ':router-annotation', ':componentlib'
